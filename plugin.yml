@@ -1,0 +1,7 @@
+name: RoundtJob
+main: soso\doon\RoundtJob
+author: [소소, 늦잠]
+version: 1.0.0
+api:
+- 3.0.0
+- 3.0.0-ALPHA7
